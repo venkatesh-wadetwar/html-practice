@@ -1,0 +1,48 @@
+body{
+    background-color: #00ffaf;
+}
+
+*{
+    color: blueviolet;
+    font-style:oblique;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: left;
+}
+
+#head3{
+    color: yellowgreen;
+    font-style: normal;
+}
+
+.class4{
+    color: red;
+}
+
+
+input{
+    background-color:rgb(0,245,100);
+    padding: 1%;
+}
+
+/* practice set 1 */
+
+div{
+    background-color: pink;
+}
+
+.heading{
+    color:red
+}
+
+
+button{
+    background-color: aquamarine;
+    padding: 1%;
+}
+

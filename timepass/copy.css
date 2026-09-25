@@ -1,0 +1,37 @@
+header{
+            background: lightblue;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav{
+            background: lightgreen;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section{
+            width: 70%;
+            background: lightyellow;
+            float: left;
+            height: 200px;
+        }
+
+        article{
+            padding: 20px;
+        }
+
+        aside{
+            width: 30%;
+            background: lightgray;
+            float: right;
+            height: 200px;
+            text-align: center;
+        }
+
+        footer{
+            clear: both;
+            background: lightcoral;
+            padding: 15px;
+            text-align: center;
+        }

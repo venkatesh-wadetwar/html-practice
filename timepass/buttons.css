@@ -1,0 +1,26 @@
+header{
+    background: rgb(158, 218, 94);
+    padding: px;
+    text-align: center;
+}
+
+button{
+    background-color: aqua;
+}
+
+article{
+    padding: 20px;
+}
+
+textarea{
+    background-color: rgb(255, 255, 0);
+    color:brown
+}
+
+   footer{
+    clear: both;
+    background: lightcoral;
+     padding: 15px;
+    text-align: center;
+}
+
